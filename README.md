@@ -31,43 +31,38 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [AkibaMart](https://github.com/capimaker/akibamart)
-React e-commerce con backend propio. Incluye:
-- Autenticación con JWT
-- CRUD de productos y pedidos
-- Documentación con Swagger
-- Deploy en Render / Vercel  
+### 🛒 [AkibaMart](https://github.com/capimaker/AkibaMart)
+React e-commerce with a custom backend. Features:
+- Authentication with JWT
+- Product & order CRUD
+- API documentation with Swagger
+- Deployment on Render / Vercel  
 
 **Tech:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 
 ---
 
-### 🌌 [ChewBooka](https://github.com/capimaker/chewbooka)
-Social network inspirada en Star Wars. Funcionalidades:
-- Registro/login con JWT
-- Posts con likes, comentarios e imágenes
-- API REST con MongoDB
-- Frontend en React  
+### 🌌 [ChewBooka](https://github.com/capimaker/MongoRedSocial)
+Star Wars–inspired social network. Features:
+- Registration/login with JWT
+- Posts with likes, comments & image upload
+- REST API with MongoDB
+- Frontend built with React  
 
 **Tech:** ![MERN](https://img.shields.io/badge/MERN-61DAFB?logo=react&logoColor=black)
 
 ---
 
-### 🤝 [Mentorship Platform](https://github.com/capimaker/mentorship)
-Plataforma de mentorías desarrollada en React + Redux + Ant Design.  
-- Gestión de mentores/startups
-- Formularios dinámicos
-- API externa con startups y mentores  
-
-**Tech:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) 
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?logo=antdesign&logoColor=white)
-
+### 🤝 [StartApp Platform](https://github.com/capimaker/startappfront)
+Mentorship platform built with React + Redux + Ant Design.  
+- Mentor & startup management
+- Dynamic forms
+- External API integration with startup & mentor data
+  
 ---
-
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=capimaker&theme=tokyonight&hide_border=true)  
