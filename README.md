@@ -62,6 +62,8 @@ Mentorship platform built with React + Redux + Ant Design.
 - Dynamic forms
 - External API integration with startup & mentor data
 
+---
+
 ### 🌌 [PatitApp](https://github.com/capimaker/patitApp)
  Pets social network. Features:
 - Registration/login with JWT
