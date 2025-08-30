@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Carlos Ramos (a.k.a. capimaker)  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&vCenter=true&width=500&lines=Full+Stack+Dev+💻;React+%7C+Node.js+%7C+MongoDB+%7C+SQL;Always+learning+something+new+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00e9f7&vCenter=true&width=500&lines=Full+Stack+Dev+💻;React+%7C+Node.js+%7C+MongoDB+%7C+SQL;Always+learning+something+new+🚀)
 
 ---
 
@@ -29,13 +29,42 @@
 
 ---
 
-## 🎬 Featured Projects
-✨ *A mix of code + creativity*  
+## 🚀 Featured Projects
 
-- 🛒 **AkibaMart** — E-commerce for manga fans (React + REST API)  
-- 🌌 **ChewBooka** — MERN social network (posts, likes, comments, image upload)  
-- 🤝 **StartApp Platform** — React + Redux + Ant Design (mentors & startups)
-- 🌌 **PatitApp** - MERN social network for pets
+### 🛒 [AkibaMart](https://github.com/capimaker/akibamart)
+React e-commerce con backend propio. Incluye:
+- Autenticación con JWT
+- CRUD de productos y pedidos
+- Documentación con Swagger
+- Deploy en Render / Vercel  
+
+**Tech:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+---
+
+### 🌌 [ChewBooka](https://github.com/capimaker/chewbooka)
+Social network inspirada en Star Wars. Funcionalidades:
+- Registro/login con JWT
+- Posts con likes, comentarios e imágenes
+- API REST con MongoDB
+- Frontend en React  
+
+**Tech:** ![MERN](https://img.shields.io/badge/MERN-61DAFB?logo=react&logoColor=black)
+
+---
+
+### 🤝 [Mentorship Platform](https://github.com/capimaker/mentorship)
+Plataforma de mentorías desarrollada en React + Redux + Ant Design.  
+- Gestión de mentores/startups
+- Formularios dinámicos
+- API externa con startups y mentores  
+
+**Tech:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) 
+![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?logo=antdesign&logoColor=white)
 
 ---
 
@@ -54,8 +83,7 @@
 ---
 
 ## 🤝 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
-- 🎥 [Portfolio / Showreel](https://tuweb.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-ramos7/)  
 - 📧 **capimaker@gmail.com**
 
 
