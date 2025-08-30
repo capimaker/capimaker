@@ -45,7 +45,7 @@ React e-commerce with a custom backend. Features:
 
 ---
 
-### 🌌 [ChewBooka](https://github.com/capimaker/MongoRedSocial)
+### 🌌 [ChewBooka](https://github.com/capimaker/Chewbooka_back)
 Star Wars–inspired social network. Features:
 - Registration/login with JWT
 - Posts with likes, comments & image upload
