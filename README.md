@@ -7,7 +7,7 @@
 ## 🧑‍🚀 About Me
 - 🌍 Based in **Valencia**, dreaming of **Switzerland / Remote EU**  
 - 💡 **Full-Stack Developer**  
-- ☕ Code fuel: Coffee + Synthwave playlists  
+- ☕ Code fuel: Coffee   
 - 🎯 Mission: Build apps that are **scalable, creative & fun**  
 - ⚡ Fun fact: I once filmed the **Queen of Spain** (not kidding 👑)
 
@@ -48,7 +48,7 @@
 
 ## ⚡ Fun Section
 - 🕹 Current Side Quest: learning **.NET** & **TypeScript**  
-- 🎮 Hobbies: Gaming, Filmmaking, Gym  
+- 🎮 Hobbies: Gaming, Filmmaking, Hiking  
 - 💭 Favorite quote: *"Do. Or do not. There is no try."* — Yoda  
 
 ---
@@ -58,4 +58,4 @@
 - 🎥 [Portfolio / Showreel](https://tuweb.com)  
 - 📧 **capimaker@gmail.com**
 
-- 📧 **capimaker@gmail.com**
+
