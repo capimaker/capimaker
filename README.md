@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Carlos Ramos (a.k.a. capimaker)  
+# 👋 Hey there, I'm Carlos Ramos 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00e9f7&vCenter=true&width=500&lines=Full+Stack+Dev+💻;React+%7C+Node.js+%7C+MongoDB+%7C+SQL;Always+learning+something+new+🚀)
 
