@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm Carlos Ramos (a.k.a. capimaker)  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&vCenter=true&width=500&lines=Filmmaker+🎬+%E2%9E%94+Full+Stack+Dev+💻;React+%7C+Node.js+%7C+MongoDB+%7C+SQL;Always+learning+something+new+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&vCenter=true&width=500&lines=Full+Stack+Dev+💻;React+%7C+Node.js+%7C+MongoDB+%7C+SQL;Always+learning+something+new+🚀)
 
 ---
 
 ## 🧑‍🚀 About Me
 - 🌍 Based in **Valencia**, dreaming of **Switzerland / Remote EU**  
-- 💡 **Filmmaker → Full-Stack Developer**  
+- 💡 **Full-Stack Developer**  
 - ☕ Code fuel: Coffee + Synthwave playlists  
 - 🎯 Mission: Build apps that are **scalable, creative & fun**  
 - ⚡ Fun fact: I once filmed the **Queen of Spain** (not kidding 👑)
@@ -32,9 +32,10 @@
 ## 🎬 Featured Projects
 ✨ *A mix of code + creativity*  
 
-- 🛒 **[AkibaMart](https://akibapi.onrender.com/api-docs/)** — E-commerce for manga fans (React + REST API)  
+- 🛒 **AkibaMart** — E-commerce for manga fans (React + REST API)  
 - 🌌 **ChewBooka** — MERN social network (posts, likes, comments, image upload)  
-- 🤝 **Mentorship Platform** — React + Redux + Ant Design (mentors & startups)  
+- 🤝 **StartApp Platform** — React + Redux + Ant Design (mentors & startups)
+- 🌌 **PatitApp** - MERN social network for pets
 
 ---
 
