@@ -84,10 +84,10 @@ Mentorship platform built with React + Redux + Ant Design.
 ## 🤝 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-ramos7/)  
 - 📧 **capimaker@gmail.com**
-## 📊 GitHub Stats
 
 ---
-
+  
+## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=capimaker&theme=tokyonight&hide_border=true)  
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=capimaker&show_icons=true&theme=tokyonight)  
 
