@@ -74,13 +74,6 @@ Mentorship platform built with React + Redux + Ant Design.
 **Tech:** ![MERN](https://img.shields.io/badge/MERN-61DAFB?logo=react&logoColor=black)
   
 ---
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=capimaker&theme=tokyonight&hide_border=true)  
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=capimaker&show_icons=true&theme=tokyonight)  
-
----
-
 ## ⚡ Fun Section
 - 🕹 Current Side Quest: learning **.NET** & **TypeScript**  
 - 🎮 Hobbies: Gaming, Filmmaking, Hiking  
@@ -91,5 +84,15 @@ Mentorship platform built with React + Redux + Ant Design.
 ## 🤝 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-ramos7/)  
 - 📧 **capimaker@gmail.com**
+## 📊 GitHub Stats
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=capimaker&theme=tokyonight&hide_border=true)  
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=capimaker&show_icons=true&theme=tokyonight)  
+
+
+
+
 
 
