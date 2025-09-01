@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍🚀 About Me
-- 🌍 Based in **Valencia**, Open to work remotely 
+- 🌍 Based in **Valencia**, Open to work worldwide 
 - 💡 **Full-Stack Developer**  
 - ☕ Code fuel: Coffee   
 - 🎯 Mission: Build apps that are **scalable, creative & fun**  
